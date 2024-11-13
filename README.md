@@ -1,2 +1,2 @@
 # hexlet-my-first-workflow-
-# hello-we-truing-new-commit
+# hello-we-trying-new-commit
